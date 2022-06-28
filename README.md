@@ -1,1 +1,1 @@
-[# portfolio-](https://jaswinder-fullstack.github.io/portfolio-/)
+[# portfolio-](https://jaswinder-fullstack.github.io/portfolio)
